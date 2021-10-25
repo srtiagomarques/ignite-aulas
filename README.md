@@ -18,4 +18,4 @@ Ai basta abrir o arquivo:
 public/index.html
 ```
 
-> A cada alteação de código deve ser executado o comando ```bat yarn webpack```, atualizar o arquivo index.html
+> A cada alteação de código deve ser executado o comando ```yarn webpack```, atualizar o arquivo index.html
